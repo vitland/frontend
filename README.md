@@ -1,5 +1,13 @@
 # Яндекс трекер развития - фронтенд
 
+# Технологии
+
+- Typescript
+- React 18
+- Redux-toolkit
+- React router
+- Vite@4
+- Sass
 # Требования
 Node 18+  
 npm 7+
@@ -26,12 +34,3 @@ npm 7+
 
 - Запуск eslint  
 ```npm run lint```
-
-# Технологии
-
-- Typescript
-- React 18
-- Redux-toolkit
-- React router
-- Vite@4
-- Sass
